@@ -2,4 +2,4 @@ _assetic:
     resource: .
     type: assetic
 _app:
-    resource: 'E:/wamp2.5/www/symfony02/app/config/routing_dev.yml'
+    resource: 'E:/wamp2.5/www/sym03/sym03/app/config/routing_dev.yml'

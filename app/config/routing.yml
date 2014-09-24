@@ -1,0 +1,4 @@
+mes_test01:
+    resource: "@MesTest01Bundle/Resources/config/routing.yml"
+    prefix:   /
+

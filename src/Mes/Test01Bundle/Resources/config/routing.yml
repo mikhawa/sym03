@@ -1,0 +1,3 @@
+mes_test01_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MesTest01Bundle:Default:index }

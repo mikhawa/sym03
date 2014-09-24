@@ -1,0 +1,4 @@
+services:
+#    mes_test01.example:
+#        class: Mes\Test01Bundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
